@@ -1,0 +1,7 @@
+.float-right {
+    float: right;
+    margin: 0 0 10px 10px; /* Adjust as needed */
+    width: 300px; /* Adjust size */
+    height: auto;
+  }
+  

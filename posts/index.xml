@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on armtrace</title>
+    <link>https://armtrace.dev/posts/</link>
+    <description>Recent content in Posts on armtrace</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Oct 2024 21:19:39 -0400</lastBuildDate>
+    <atom:link href="https://armtrace.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>https://armtrace.dev/posts/my-first-post/</link>
+      <pubDate>Thu, 31 Oct 2024 21:19:39 -0400</pubDate>
+      <guid>https://armtrace.dev/posts/my-first-post/</guid>
+      <description>Welcome to my new website! Please enjoy your stay here!</description>
+    </item>
+  </channel>
+</rss>
